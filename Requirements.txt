@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+gensim
+xgboost
+imbalanced-learn
+streamlit
+joblib
+tqdm
+python-docx
+pdfplumber
+PyMuPDF
+beautifulsoup4

@@ -61,7 +61,7 @@ git clone https://github.com/Kakarotprince/FileClassification.git
 cd FileClassification
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 ### ⚠️ Important Note:
